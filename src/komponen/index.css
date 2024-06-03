@@ -1,0 +1,14 @@
+body {
+    padding-bottom: 100px; /* Adjust this value if needed */
+}
+
+.project-image {
+    width: 48%;
+    margin: 1%;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.project-image:hover {
+    transform: scale(1.05);
+}
